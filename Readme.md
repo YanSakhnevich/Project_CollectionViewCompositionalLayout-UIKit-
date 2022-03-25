@@ -6,7 +6,7 @@
 
 This application receives data from URL, and then displays a collection view with items on the screen.The collection is made by CollectionViewCompositionalLayout.
 
-  <img align="right" alt="png" width="320px" style="border-radius:10%" src="https://github.com/YanSakhnevich/Project_CollectionViewCompositionalLayout-UIKit-/blob/main/Screenshots/App.png" />
+  <img align="right" alt="PNG" width="320px" style="border-radius:10%" src="https://github.com/YanSakhnevich/Project_CollectionViewCompositionalLayout-UIKit-/blob/develop/Screenshots/App.png" />
   
 <br />
 <br />
